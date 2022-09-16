@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libMySharedLib.dylib -install_name @rpath/libMySharedLib.dylib CMakeFiles/MySharedLib.dir/mysharedlib.cpp.o 

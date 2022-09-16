@@ -1,0 +1,7 @@
+/Users/tzuping/project/qt_cmake_library/TestSharedLib/build/CMakeFiles/TestSharedLib.dir
+/Users/tzuping/project/qt_cmake_library/TestSharedLib/build/CMakeFiles/edit_cache.dir
+/Users/tzuping/project/qt_cmake_library/TestSharedLib/build/CMakeFiles/rebuild_cache.dir
+/Users/tzuping/project/qt_cmake_library/TestSharedLib/build/CMakeFiles/list_install_components.dir
+/Users/tzuping/project/qt_cmake_library/TestSharedLib/build/CMakeFiles/install.dir
+/Users/tzuping/project/qt_cmake_library/TestSharedLib/build/CMakeFiles/install/local.dir
+/Users/tzuping/project/qt_cmake_library/TestSharedLib/build/CMakeFiles/install/strip.dir
